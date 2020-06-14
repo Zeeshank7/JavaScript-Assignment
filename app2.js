@@ -1,3 +1,16 @@
+// alert Tasks 1.0
+// 1.1 -task  
+alert("Asslam-0-Alikum, viewers ....... How are you  hope you are fine.")
+// 1.2 -task  
+alert("Error! Please enter a valid password.")
+// 1.3 -task
+alert("Welcome to JS Land ....\nHappy Coding!")
+// 1.4 -task
+alert("Welcome to JS Land")
+alert("Happy coding! \nPrevent this page from creating additional dialogs")
+
+
+
 // VARIABLES FOR STRINGS Tasks 2.0
 // 2.1 -task
 var username;
